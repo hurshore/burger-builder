@@ -1,0 +1,30 @@
+.Logo {
+   height: 50px;
+   display: inline-block;
+   display: flex;
+   justify-content: center;
+}
+
+ul {
+   list-style-type: none;
+   padding: 0;
+}
+
+ul.OrderDetails li {
+   margin: 10px 0;
+   padding: 0;
+   display: flex;
+   justify-content: space-between;
+}
+
+ul.OrderDetails li span {
+   display: inline-block;
+   width: 50px;
+}
+
+ul.OrderCost li {
+   margin: 10px 0;
+   padding: 0;
+   display: flex;
+   justify-content: space-between;
+}

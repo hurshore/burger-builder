@@ -1,0 +1,16 @@
+.Order {
+  width: 80%;
+  box-sizing: border-box;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+}
+
+.Order button {
+  background-color: red;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  font-size: 20px;
+}
